@@ -1,4 +1,5 @@
-# Text Summariser
+# Extractive Text Summariser
+
 
 This is a text summariser that works on extractive method. 
 
@@ -12,9 +13,7 @@ This is a text summariser that works on extractive method.
 7. Calculate Sentence scores based on each word within sentence
 8. Creation of summary with top 10 highest scored sentences
 
-### We will also compare extractive and abstractive methods to see which one fares better, in the future. 
+### We will also compare extractive and abstractive methods to see which one fares better
 
 
-### Sources
-Inspiration for this code can be found <a href="https://youtu.be/ryQVfi580OI">here</a>
 
